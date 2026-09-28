@@ -53,7 +53,7 @@ I am currently pursuing my studies at **East Delta University**, where I am buil
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpachy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
