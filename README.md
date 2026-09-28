@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer & Aspiring Software Engineer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpachy&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arpachy&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
@@ -52,10 +52,10 @@ I am currently pursuing my studies at **East Delta University**, where I am buil
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpachy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpachy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ### 🤝 Connect with Me:
